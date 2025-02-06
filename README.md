@@ -1,1 +1,1 @@
-# KMeans Clustering for Web Log Analysis
+# K-Means Clustering for Web Log Analysis
