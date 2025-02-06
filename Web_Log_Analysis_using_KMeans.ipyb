@@ -2,33 +2,6 @@
   "cells": [
     {
       "cell_type": "code",
-      "source": [
-        "# 將 Google Drive 掛在到 Colab 上，才能存取 Google Drive 上的 dataset\n",
-        "from google.colab import drive\n",
-        "\n",
-        "drive.mount('/content/drive')"
-      ],
-      "metadata": {
-        "id": "94MamX-cB8F8",
-        "colab": {
-          "base_uri": "https://localhost:8080/"
-        },
-        "outputId": "6a8b3aa5-3e65-4d48-f9e1-2bcc8c2e607b"
-      },
-      "execution_count": null,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "name": "stdout",
-          "text": [
-            "Mounted at /content/drive\n"
-          ]
-        }
-      ],
-      "id": "94MamX-cB8F8"
-    },
-    {
-      "cell_type": "code",
       "execution_count": null,
       "id": "11d32b61-ff55-47ae-b6af-f0f7a9e73875",
       "metadata": {
